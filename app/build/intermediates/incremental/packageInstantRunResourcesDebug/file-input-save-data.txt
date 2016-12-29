@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Dec 29 21:06:29 CST 2016
+2.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\login.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\save.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
