@@ -1,14 +1,14 @@
 #Internal package file, do not edit.
-#Thu Dec 29 21:06:35 CST 2016
+#Fri Dec 30 16:43:57 CST 2016
 8.set=DEX
 1.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
 1.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
 3.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
 3.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
-15.set=DEX
+15.set=ANDROID_RESOURCE
 4.set=ANDROID_RESOURCE
 5.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\save.xml
 7.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
 7.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
 11.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_66354742a30a7bb40db7a5d2dc67670a37fb015b\\classes.dex
@@ -19,10 +19,11 @@
 13.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 11.set=DEX
 0.set=ANDROID_RESOURCE
-15.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
-15.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
-17.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
-17.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+15.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\back.png
+15.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
+18.set=DEX
+17.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
+17.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
 7.set=DEX
 14.set=ANDROID_RESOURCE
 3.set=DEX
@@ -33,10 +34,10 @@
 6.set=ANDROID_RESOURCE
 2.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
 2.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
-4.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 4.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\save.xml
+6.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
 10.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 10.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
 13.set=DEX
@@ -47,10 +48,12 @@
 12.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
 14.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 14.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\res\\resources-debug.ap_
-16.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
-16.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+16.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+16.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 9.set=ANDROID_RESOURCE
-count=18
+count=19
+18.file=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
+18.base=C\:\\Users\\ct_OS\\AndroidStudioProjects\\CameraEye\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
 16.set=DEX
 5.set=ANDROID_RESOURCE
 12.set=DEX

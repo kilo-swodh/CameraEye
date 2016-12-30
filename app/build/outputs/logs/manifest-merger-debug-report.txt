@@ -70,7 +70,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
 		ADDED from C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\src\main\AndroidManifest.xml:27:27-74
-activity#com.example.CameraEye.CameraTest
+activity#com.example.CameraEye.CameraMain
 ADDED from C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\src\main\AndroidManifest.xml:30:9-34:20
 	android:screenOrientation
 		ADDED from C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\src\main\AndroidManifest.xml:32:13-50

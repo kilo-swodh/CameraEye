@@ -2,36 +2,50 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    density="xxhdpi"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="105752985855431"
+    timestamp="176796363239066"
     token="3970485935415739181"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="101" />
+        duration="74" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="185" />
+        duration="13" />
     <task
         name="verifier"
-        duration="29" />
+        duration="1" />
 
     <artifact
-        location="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="105752985855431"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="176400617057151"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="176530605633276"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="176796363239066"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

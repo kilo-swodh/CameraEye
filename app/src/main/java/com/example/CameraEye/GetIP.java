@@ -41,7 +41,7 @@ public class GetIP extends Activity {
 					ipname = iptext.getText().toString().trim();
 					Bundle data = new Bundle();
 					data.putString("ipname",ipname);					
-					Intent intent = new Intent(GetIP.this,CameraTest.class);
+					Intent intent = new Intent(GetIP.this,CameraMain.class);
 					intent.putExtras(data);
 					startActivity(intent);
 				}

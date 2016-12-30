@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ebfcd30c7561c13946568906858191f125b96e73">
-        <dex dex="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66354742a30a7bb40db7a5d2dc67670a37fb015b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c9a4fbc2373efe3a5cc657554c5a05280ff9f03e">
+        sha1="8c635dbfc5701082e3f14ce27cbaecf0d5968bde">
         <dex dex="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ac0a7c53c5d71ed2bac799628e877c29c4cb3615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d91c5776f1db36a9b1956898da5109f99b9865e">
+        <dex dex="C:\Users\ct_OS\AndroidStudioProjects\CameraEye\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66354742a30a7bb40db7a5d2dc67670a37fb015b\classes.dex" />
     </item>
 
 </items>

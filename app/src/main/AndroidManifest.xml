@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CameraTest"
+            android:name=".CameraMain"
             android:screenOrientation="landscape"
             android:label="@string/app_name" >
         </activity>

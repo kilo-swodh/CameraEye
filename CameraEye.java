@@ -51,18 +51,18 @@ class ImageFrame extends JFrame{
         // add panel to frame
         this.getContentPane().setLayout(null);
         panel = new ImagePanel(ss);
-        panel.setSize(720,405);
+        panel.setSize(720,480);
         panel.setLocation(0, 0);
         add(panel);
         jb = new JButton("едуу");
-        jb.setBounds(0,405,640,40);
+        jb.setBounds(0,480,640,40);
         add(jb);
         saveimage saveaction = new saveimage(ss);
         jb.addActionListener(saveaction);
     }
 
     public static final int DEFAULT_WIDTH = 655;
-    public static final int DEFAULT_HEIGHT = 485;  
+    public static final int DEFAULT_HEIGHT = 560;
 }
 
 /**
